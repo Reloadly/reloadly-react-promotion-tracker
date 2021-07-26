@@ -1,5 +1,11 @@
-.App {
+.App,
+.parent {
   text-align: center;
+  height: 100vh;
+  width: 100vw;
+  
+  color: #ffffff;
+  padding-bottom: 200px;
 }
 
 .App-logo {
@@ -35,4 +41,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  padding: 100px 0 0 50px;
+}
+
+h3 {
+  padding-top: 50px;
+}
+
+p {
+  margin: 20px 0 0 50px;
+}
+
+input {
+  margin-top: 20px;
+}
+
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  margin-top: 15px;
 }
