@@ -66,14 +66,14 @@ input Button {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    width: 50vw;
+    width: 70vw;
     margin: auto;
     font-family: 'Lato', sans-serif;
+    letter-spacing: 1.5px;
 }
 
 .card-body {
     background-color: #d6f3ff;
-    width: 50vw;
 }
 
 .card {
