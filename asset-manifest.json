@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reloadly-react-promotion-tracker/static/css/main.58b14a56.chunk.css",
+    "main.js": "/reloadly-react-promotion-tracker/static/js/main.c39d8a4c.chunk.js",
+    "main.js.map": "/reloadly-react-promotion-tracker/static/js/main.c39d8a4c.chunk.js.map",
+    "runtime-main.js": "/reloadly-react-promotion-tracker/static/js/runtime-main.b9a26145.js",
+    "runtime-main.js.map": "/reloadly-react-promotion-tracker/static/js/runtime-main.b9a26145.js.map",
+    "static/css/2.4be38407.chunk.css": "/reloadly-react-promotion-tracker/static/css/2.4be38407.chunk.css",
+    "static/js/2.9b71caaf.chunk.js": "/reloadly-react-promotion-tracker/static/js/2.9b71caaf.chunk.js",
+    "static/js/2.9b71caaf.chunk.js.map": "/reloadly-react-promotion-tracker/static/js/2.9b71caaf.chunk.js.map",
+    "static/js/3.38d91af6.chunk.js": "/reloadly-react-promotion-tracker/static/js/3.38d91af6.chunk.js",
+    "static/js/3.38d91af6.chunk.js.map": "/reloadly-react-promotion-tracker/static/js/3.38d91af6.chunk.js.map",
+    "index.html": "/reloadly-react-promotion-tracker/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/reloadly-react-promotion-tracker/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.58b14a56.chunk.css.map": "/reloadly-react-promotion-tracker/static/css/main.58b14a56.chunk.css.map",
+    "static/js/2.9b71caaf.chunk.js.LICENSE.txt": "/reloadly-react-promotion-tracker/static/js/2.9b71caaf.chunk.js.LICENSE.txt",
+    "static/media/promotions.css": "/reloadly-react-promotion-tracker/static/media/image.68103210.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9a26145.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9b71caaf.chunk.js",
+    "static/css/main.58b14a56.chunk.css",
+    "static/js/main.c39d8a4c.chunk.js"
+  ]
+}
